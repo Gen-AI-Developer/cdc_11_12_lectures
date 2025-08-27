@@ -1,6 +1,9 @@
 # Object-Oriented Programming in C++
 
-This repository is designed for 12th Grade students studying the C++ Programming Language as described by the textbook of the Peshawar Board of Intermediate and Secondary Education, Peshawar. It will be taught by Lecturer Computer Science Syed Safdar Ali Shah (Author of this repository) at Capital Degree College Peshawar, Abrar Road, Peshawar. ![image.png](image.png)
+This repository is designed for 12th Grade students studying the C++ Programming Language as described by the textbook of the Peshawar Board of Intermediate and Secondary Education, Peshawar. It will be taught by Lecturer Computer Science Syed Safdar Ali Shah (Author of this repository) at Capital Degree College Peshawar, Abrar Road, Peshawar.
+
+
+![image.png](image.png)
 
 ## Basic Introduction to Computer Science and Programming Languages
 
