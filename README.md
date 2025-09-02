@@ -1,6 +1,6 @@
 # Object-Oriented Programming in C++
 
-This repository is designed for 12th Grade students studying the C++ Programming Language as described by the textbook of the Peshawar Board of Intermediate and Secondary Education, Peshawar. It will be taught by Lecturer Computer Science Syed Safdar Ali Shah (Author of this repository) at Capital Degree College Peshawar, Abrar Road, Peshawar.
+This repository is designed for 12th Grade students studying the C++ Programming Language as described by the textbook of the Peshawar Board of Intermediate and Secondary Education, Peshawar. It will be taught by Lecturer Computer Science Syed Safdar Ali Shah (Author of this repository) at Capital Degree College Peshawar, Abdra Road, Peshawar.
 
 
 ![image.png](image.png)
@@ -151,8 +151,11 @@ Programming languages allow humans to communicate with computers. They provide a
   - `bof_eof.cpp`: Covers the concepts of BOF (Beginning of File) and EOF (End of File).
   - `streams.cpp`: Demonstrates streams and their types (`ifstream`, `ofstream`, `fstream`).
   - `single_character_string.cpp`: Shows reading and writing single characters and strings.
+<<<<<<< HEAD
 
 ### 15. Important Links to Study
 - [C++ Documentation](https://en.cppreference.com/w/)
 - [LearnCpp.com is a free website devoted to teaching you how to program in modern C++.](https://www.learncpp.com/)
 - [C++ Tutorials](https://www.tutorialspoint.com/cplusplus/index.htm)
+=======
+>>>>>>> refs/remotes/origin/main
