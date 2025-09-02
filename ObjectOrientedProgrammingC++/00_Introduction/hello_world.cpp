@@ -7,10 +7,10 @@
 
 int main() { // The main function is the entry point of every C++ program.
              // Execution begins here.
-
-    std::cout << "Hello, World!" << std::endl; // std::cout is used to print output to the console.
-                                              // "Hello, World!" is the string literal to be printed.
-                                              // std::endl inserts a newline character and flushes the output buffer.
+            for (int x = 0; x < 5; x++) // A for loop that iterates 5 times.
+            { 
+                std::cout << "Hello, World! for " << x << std::endl; // std::cout is used to print output to the console.
+            }
 
     return 0; // Returning 0 from main indicates that the program executed successfully.
 }
